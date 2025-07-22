@@ -65,7 +65,7 @@ The CSV must include at least the following columns:
 
 ## 📸 Project Pipeline Diagram
 
-![Pipeline Overview](docs/pipelineOverview.png)
+![Pipeline Overview](assets/pipelineOverview.png)
 
 
 ---
