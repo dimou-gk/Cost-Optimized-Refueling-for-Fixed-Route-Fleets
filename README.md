@@ -72,7 +72,7 @@ The CSV must include at least the following columns:
 
 ## 🙏 Acknowledgements
 
-This project was developed in collaboration with **[Michail Ioannou]** during our MSc studies. We extend our sincere gratitude to:
+This project was developed in collaboration with **Michail Ioannou** during our MSc studies. We extend our sincere gratitude to:
 
 
 - **Professors Anastasios Gounaris and John Paparizos**
